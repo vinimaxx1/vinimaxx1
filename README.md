@@ -17,8 +17,8 @@ Olá! Eu sou Vinicius, um profissional de TI com uma forte base em análise de d
 ### Contato
 Se você quiser saber mais sobre mim ou discutir possíveis colaborações, sinta-se à vontade para entrar em contato.
 
-# Telefone: +5521988051623
+#### Telefone: +5521988051623
 
-# LinkedIn: www.linkedin.com/in/viniciusncosta
+#### LinkedIn: www.linkedin.com/in/viniciusncosta
 
-# Email: viniciusnobcosta@gmail.com
+#### Email: viniciusnobcosta@gmail.com

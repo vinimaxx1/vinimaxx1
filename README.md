@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Eu sou Vinicius, um profissional de TI com uma forte base em análise de dados, ciência de dados e desenvolvimento web. Com uma série de certificações renomadas e competências técnicas, estou comprometido em aplicar meu conhecimento para resolver problemas complexos e entregar resultados de alto impacto.
+Olá! Eu sou Vinicius, um estudante de Ciência da Computação com uma forte base em análise de dados, ciência de dados e desenvolvimento web. Com uma série de certificações renomadas e competências técnicas, estou comprometido em aplicar meu conhecimento para resolver problemas complexos e entregar resultados de alto impacto.
 
 ### Conhecimentos e Habilidades
 

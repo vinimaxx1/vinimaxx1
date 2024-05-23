@@ -1,23 +1,22 @@
 ## Sobre Mim
 
-Olá! Eu sou Vinicius Costa, um profissional apaixonado por tecnologia com um amplo conhecimento na área de TI. Minha jornada profissional é marcada por uma combinação de habilidades técnicas e criatividade, sempre focada em desenvolver soluções inovadoras e eficientes.
+Olá! Eu sou Vinicius, um profissional de TI com uma forte base em análise de dados, ciência de dados e desenvolvimento web. Com uma série de certificações renomadas e competências técnicas, estou comprometido em aplicar meu conhecimento para resolver problemas complexos e entregar resultados de alto impacto.
 
 ### Conhecimentos e Habilidades
 
-- Python: Possuo conhecimento avançado na utilização da ferramenta Python para análise de dados, Data Science e Machine Learning.
-Análise de Dados: Competente no uso de ferramentas de análise de dados como Python (Pandas, NumPy), SQL e Power BI. Realizei projetos de análise de dados que ajudaram na tomada de decisões estratégicas para as empresas onde trabalhei.
-Gerenciamento de Projetos: Experiência em metodologias ágeis (Scrum, Kanban) para gerenciar projetos de software, garantindo entregas pontuais e de alta qualidade.
-Infraestrutura e DevOps: Conhecimento em gerenciamento de servidores, automação de deploys e configuração de pipelines CI/CD utilizando ferramentas como Docker, Kubernetes, Jenkins, e AWS.
-Segurança da Informação: Implementação de práticas de segurança da informação para proteger dados sensíveis e garantir a integridade e disponibilidade dos sistemas.
+- SQL com MySQL Server: Proficiente em criação e gerenciamento de bancos de dados, consultas complexas e otimização de performance. Uso do MySQL para suportar aplicações robustas e eficientes.
+- Power BI: Experiência em criação de dashboards interativos e relatórios visuais. Habilidade em conectar, transformar e visualizar dados de diversas fontes para insights acionáveis.
+- Python: Competente em desenvolvimento de scripts e automações, além de análise de dados com bibliotecas como Pandas, NumPy e Matplotlib.
+- VBA: Automação de tarefas no Excel, criação de macros e aprimoramento de processos para aumentar a eficiência e precisão dos dados.
+- WordPress e PHP: Desenvolvimento e manutenção de sites dinâmicos e responsivos. Habilidade em customizar temas e plugins para atender às necessidades específicas dos clientes.
+
 Experiência Profissional
-[Empresa Atual ou Última]: Atuei como [Seu Cargo], onde fui responsável por [principais responsabilidades e conquistas].
-[Empresas Anteriores]: Trabalhei em diversas empresas de tecnologia, onde contribui para projetos desafiadores e adquiri uma vasta experiência em diferentes domínios de TI.
-Projetos Destacados
-[Projeto 1]: Desenvolvimento de [breve descrição do projeto e tecnologias utilizadas].
-[Projeto 2]: Análise de dados para [objetivo do projeto e impacto/resultados alcançados].
-[Projeto 3]: Implementação de CI/CD pipeline usando [tecnologias utilizadas].
+- CNOOC Petroleum Brasil Ltda.: Atuei como estagiário de TI, onde fui responsável pelo suporte técnico e help desk, além de ajudar no setor administrativo..
+- PetroInspec e Soluções: Atuei como responsável pelo desenvolvimento e administração do site da empresa utilizando a plataforma Wordpress.
+
 Contato
 Se você quiser saber mais sobre mim ou discutir possíveis colaborações, sinta-se à vontade para entrar em contato.
 
-LinkedIn
-Email
+Telefone: +5521988051623
+LinkedIn: www.linkedin.com/in/viniciusncosta
+Email: viniciusnobcosta@gmail.com

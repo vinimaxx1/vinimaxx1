@@ -10,15 +10,15 @@ Olá! Eu sou Vinicius, um profissional de TI com uma forte base em análise de d
 - VBA: Automação de tarefas no Excel, criação de macros e aprimoramento de processos para aumentar a eficiência e precisão dos dados.
 - WordPress e PHP: Desenvolvimento e manutenção de sites dinâmicos e responsivos. Habilidade em customizar temas e plugins para atender às necessidades específicas dos clientes.
 
-Experiência Profissional
+### Experiência Profissional
 - CNOOC Petroleum Brasil Ltda.: Atuei como estagiário de TI, onde fui responsável pelo suporte técnico e help desk, além de ajudar no setor administrativo..
 - PetroInspec e Soluções: Atuei como responsável pelo desenvolvimento e administração do site da empresa utilizando a plataforma Wordpress.
 
-Contato
+### Contato
 Se você quiser saber mais sobre mim ou discutir possíveis colaborações, sinta-se à vontade para entrar em contato.
 
-Telefone: +5521988051623
+# Telefone: +5521988051623
 
-LinkedIn: www.linkedin.com/in/viniciusncosta
+# LinkedIn: www.linkedin.com/in/viniciusncosta
 
-Email: viniciusnobcosta@gmail.com
+# Email: viniciusnobcosta@gmail.com

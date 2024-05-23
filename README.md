@@ -18,5 +18,7 @@ Contato
 Se você quiser saber mais sobre mim ou discutir possíveis colaborações, sinta-se à vontade para entrar em contato.
 
 Telefone: +5521988051623
+
 LinkedIn: www.linkedin.com/in/viniciusncosta
+
 Email: viniciusnobcosta@gmail.com

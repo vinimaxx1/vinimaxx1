@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Eu sou Vinicius, um estudante de Ciência da Computação com uma forte base em análise de dados, ciência de dados e desenvolvimento web. Com uma série de certificações renomadas e competências técnicas, estou comprometido em aplicar meu conhecimento para resolver problemas complexos e entregar resultados de alto impacto.
+Olá! Eu sou Vinicius, estudante de Ciência da Computação com uma forte base em análise de dados, ciência de dados e desenvolvimento web. Com uma série de certificações renomadas e competências técnicas, estou comprometido em aplicar meu conhecimento para resolver problemas complexos e entregar resultados de alto impacto.
 
 ### Conhecimentos e Habilidades
 
@@ -13,6 +13,7 @@ Olá! Eu sou Vinicius, um estudante de Ciência da Computação com uma forte ba
 ### Experiência Profissional
 - CNOOC Petroleum Brasil Ltda.: Atuei como estagiário de TI, onde fui responsável pelo suporte técnico e help desk, além de ajudar no setor administrativo..
 - PetroInspec e Soluções: Atuei como responsável pelo desenvolvimento e administração do site da empresa utilizando a plataforma Wordpress.
+- Agência Nacional do Petróleo e Biocombustíveis (ANP): Atuo como estagiário de BI, onde sou responsável por desenvolver e atualizar relatórios dinãmicos.
 
 ### Contato
 Se você quiser saber mais sobre mim ou discutir possíveis colaborações, sinta-se à vontade para entrar em contato.

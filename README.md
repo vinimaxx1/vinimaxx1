@@ -11,8 +11,7 @@ Olá! Eu sou Vinicius, estudante de Ciência da Computação com uma forte base 
 - WordPress e PHP: Desenvolvimento e manutenção de sites dinâmicos e responsivos. Habilidade em customizar temas e plugins para atender às necessidades específicas dos clientes.
 
 ### Experiência Profissional
-- CNOOC Petroleum Brasil Ltda.: Atuei como estagiário de TI, onde fui responsável pelo suporte técnico e help desk, além de ajudar no setor administrativo..
-- PetroInspec e Soluções: Atuei como responsável pelo desenvolvimento e administração do site da empresa utilizando a plataforma Wordpress.
+- CNOOC Petroleum Brasil Ltda.: Atuei como estagiário de TI, onde fui responsável pelo suporte técnico e help desk, além de ajudar no setor administrativo.
 - Agência Nacional do Petróleo e Biocombustíveis (ANP): Atuo como estagiário de BI, onde sou responsável por desenvolver e atualizar relatórios dinãmicos.
 
 ### Contato
